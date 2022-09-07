@@ -13,6 +13,7 @@
 		7748E74628883C4000AE2578 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7748E74428883C4000AE2578 /* Main.storyboard */; };
 		7748E74828883C4100AE2578 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7748E74728883C4100AE2578 /* Assets.xcassets */; };
 		7748E74B28883C4100AE2578 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7748E74928883C4100AE2578 /* LaunchScreen.storyboard */; };
+		7748E75328884CA800AE2578 /* AlertController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7748E75228884CA800AE2578 /* AlertController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7748E74728883C4100AE2578 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7748E74A28883C4100AE2578 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7748E74C28883C4100AE2578 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7748E75228884CA800AE2578 /* AlertController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7748E73E28883C4000AE2578 /* AppDelegate.swift */,
 				7748E74028883C4000AE2578 /* SceneDelegate.swift */,
 				7748E74228883C4000AE2578 /* ViewController.swift */,
+				7748E75228884CA800AE2578 /* AlertController.swift */,
 				7748E74428883C4000AE2578 /* Main.storyboard */,
 				7748E74728883C4100AE2578 /* Assets.xcassets */,
 				7748E74928883C4100AE2578 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7748E75328884CA800AE2578 /* AlertController.swift in Sources */,
 				7748E74328883C4000AE2578 /* ViewController.swift in Sources */,
 				7748E73F28883C4000AE2578 /* AppDelegate.swift in Sources */,
 				7748E74128883C4000AE2578 /* SceneDelegate.swift in Sources */,
